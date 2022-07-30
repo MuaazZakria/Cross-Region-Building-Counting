@@ -8,8 +8,6 @@ Estimating the number of buildings in any geographical region is a vital compone
 
 
 
-## Installation
+## Repository
 
-PyTorch 0.4.1
-
-Python 2.7
+The public repository for this work can be accessed [here](https://github.com/intelligentMachines-ITU/domain-Adaptive-Building-Counting)
